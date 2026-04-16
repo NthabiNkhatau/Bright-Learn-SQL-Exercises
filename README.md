@@ -5,6 +5,6 @@ The repository is organised into Six core exercises:
  SQL Fundamentals,
  Aggregate Functions & Grouping,
  CASE Statements,
- Joins, UNION, Filtering, and Aggregates
- Null Functions
+ Joins, UNION, Filtering, and Aggregates,
+ Null Functions, and
  Date Functions
